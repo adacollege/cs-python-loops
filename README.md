@@ -1,2 +1,2 @@
 # cs-python-loops
-A repo with a loops challenge
+There is an report with a loop challenge. 
