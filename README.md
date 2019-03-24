@@ -1,2 +1,2 @@
 # cs-python-loops
-There is an report with a loop challenge. 
+There is a report with a loop challenge. 
